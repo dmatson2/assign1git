@@ -3,8 +3,7 @@ Drake Matson
 
 First comment
 
-<<<<<<< HEAD
 This is a change on newbranch
-=======
 testbranch change
->>>>>>> main
+
+Needed to add additional change to create pull request (I must have messed something up)
